@@ -1,0 +1,15 @@
+{
+    "Lua.diagnostics.disable": [
+        "lowercase-global"
+    ],
+    "Lua.diagnostics.globals": [
+        "sleep",
+        "colors",
+        "peripheral",
+        "shell",
+        "redstone",
+        "rednet",
+        "shutdown",
+        "reboot"
+    ]
+}
