@@ -1,2 +1,2 @@
 # HTPM for ComputerCraft: Tweaked
- HTPM Lua Operating System for ComputerCraft:Tweakd
+ HTPM Lua Operating System for ComputerCraft:Tweaked
