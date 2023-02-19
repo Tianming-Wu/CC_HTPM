@@ -10,6 +10,7 @@
         "redstone",
         "rednet",
         "shutdown",
-        "reboot"
+        "reboot",
+        "textutils"
     ]
 }
