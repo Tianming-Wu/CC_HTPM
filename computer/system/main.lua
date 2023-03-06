@@ -36,7 +36,7 @@ config_parse();
 
 logto("[Rednet] Starting on side top...");
 rdn = rednet.open("top");
-if rdn == false then ld_posterror("Failed to open Rednet"); sleep(1); os.exit(); end
+if rdn == false then ld_posterror("Failed to open Rednet"); sleep(1); os.exit(); end rdn=nil
 logto("[Rednet] Started");
 ld_upd(10);
 
